@@ -75,3 +75,8 @@ setState() triggeres virtual DOM update
 Hooks - use react features w/o writing the class (>v16.8)
 Hooks don't wrork inside classes
 Hooks are just functions
+
+========File uploads=========
+https://programmingwithmosh.com/javascript/react-file-upload-proper-server-side-nodejs-easy/
+https://malcoded.com/posts/react-file-upload/
+https://codeburst.io/react-image-upload-with-kittens-cc96430eaece
