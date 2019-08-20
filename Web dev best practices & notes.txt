@@ -69,3 +69,16 @@ The key difference with the browser cache is that you can specify all the assets
 18. Session mechanisms/session hijacking
 19. HTTP caching
 
+========Web compression using gzip==========
+https://varvy.com/pagespeed/enable-compression.html
+tools - https://varvy.com/tools/gzip/....https://varvy.com/pagespeed/
+
+Compression is an important way to increase the performance of a Web site. For some documents, size reduction of up to 70% lowers the bandwidth capacity needs. Over the years, algorithms also got more efficient, and new ones are supported by clients and servers.
+In practice, web developers don't need to implement compression mechanisms, both browsers and servers have it implemented already, but they have to be sure that the server is configured adequately. Compression happens at three different levels:
+
+1. first some file formats are compressed with specific optimized methods,
+2. then general encryption can happen at the HTTP level (the resource is transmitted compressed from end to end),
+3. and finally compression can be defined at the connection level, between two nodes of an HTTP connection.
+
+========Gzip vs brotli compression=========
+https://medium.com/oyotech/how-brotli-compression-gave-us-37-latency-improvement-14d41e50fee4
