@@ -1,1 +1,2 @@
-HTML is a markup language not programming language
+HTML is a markup (text ready to print) language not programming language
+<!DOCTYPE> --> tells browser which type of document it is
