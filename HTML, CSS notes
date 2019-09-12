@@ -10,3 +10,4 @@ margin - distance between boxes
 border - around the padding or content
 
 box-sizing : border-box
+block elements vs inline elements
