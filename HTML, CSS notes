@@ -1,2 +1,12 @@
 HTML is a markup (text ready to print) language not programming language
 <!DOCTYPE> --> tells browser which type of document it is
+CSS property inheritance
+html id = unique per document
+
+The CSS box model
+content - text, images
+padding - transparent around the box or content
+margin - distance between boxes
+border - around the padding or content
+
+box-sizing : border-box
