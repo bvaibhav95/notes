@@ -1,0 +1,9 @@
+==========nginx setup==========
+1.stop tomcat8 service 
+2.edited server section with following block
+location  /orthanc/  {
+      proxy_pass http://127.0.0.1:8042;
+      proxy_set_header HOST $host;
+      proxy_set_header X-Real-IP $remote_addr;
+      rewrite /orthanc(.*) $1 break;
+}
