@@ -7,3 +7,18 @@ HTTP is stateless: there is no link between two requests being successively carr
 
 https://dzone.com/articles/securing-nodejs-managing-sessions-in-expressjs
 Authentication working mechanism - https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d
+
+
+JWTs
+https://blog.logrocket.com/jwt-authentication-best-practices/
+https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens#context
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
+https://dev.to/siwalikm/what-the-heck-is-jwt-anyway--47hg
+https://blog.codecentric.de/en/2017/08/use-json-web-tokens-services/
+https://codeburst.io/jwt-to-authenticate-servers-apis-c6e179aa8c4e
+
+API authentication
+https://medium.com/@maison.moa/using-jwt-json-web-tokens-to-authorize-users-and-protect-api-routes-3e04a1453c3e
+https://blog.logrocket.com/how-to-secure-a-rest-api-using-jwt-7efd83e71432/
+https://auth0.com/blog/using-json-web-tokens-as-api-keys/
