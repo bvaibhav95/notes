@@ -250,4 +250,4 @@ Stereotype annotations
 3. JSPs, servlets are kinda part of J2EE or EJBs
 5. Servlet API 4.0...what it is and hpow spring uses it ?
 6. what is tomcat exactly and how it's different from web servers and other servers?
-7. what is classpath ?
+7. what is classpath ? --> https://www.geeksforgeeks.org/classpath-in-java/
