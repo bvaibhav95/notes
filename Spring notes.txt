@@ -248,6 +248,8 @@ Stereotype annotations
 1. It's J2EE(EJBs) vs Spring
 2. J2EE or EJBs were very painful that's why spring came into picture
 3. JSPs, servlets are kinda part of J2EE or EJBs
-5. Servlet API 4.0...what it is and hpow spring uses it ? --> https://www.geeksforgeeks.org/introduction-java-servlets/
+5. Servlet API 4.0...what it is and hpow spring uses it ?
 6. what is tomcat exactly and how it's different from web servers and other servers?
-7. what is classpath ? --> https://www.geeksforgeeks.org/classpath-in-java/
+7. what is classpath/buildpath ? --> use this path or jars on this path for running app or compiling the app
+8. Coach baseballCoach = new BaseballCoach(); --> for Coach interface use BaseballCoach implementation of it
+9. Spring container is the ApplicationContext (viz xml file)
